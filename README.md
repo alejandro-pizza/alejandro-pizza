@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Bechara Kaddoum
+<h1 align="center"> Alejandro Gutierrez Werner
 <p align="center">
 <a href="[Your Website URL]">Website</a> •
 <a href="[LinkedIn URL]">LinkedIn</a> •
