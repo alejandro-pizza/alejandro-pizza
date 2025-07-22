@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 ## About Me
 I'm passionate about technology, specializing in cybersecurity. With 11 years of experience in the
-field, I'm dedicated to enhancing security, solving complex challenges, and sharing my knowledge
+field, I'm dedicated to predictive analytics, perscriptive solutions, solving complex challenges, and sharing my knowledge
 with the community. XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ---
 ## Skills & Tools
@@ -33,8 +33,7 @@ with the community. XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 - Technical to non-technical
 ---
 ## Achievements
-- 1st company sold in 2018
-- Head of cybersecurity
+- 1st company sold in 2024
 ---
 ## Certifications
 - Certified Information Systems Security Professional (CISSP)
