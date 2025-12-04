@@ -18,44 +18,48 @@ Here are some ideas to get you started:
 <h1 align="center"> Alejandro Gutierrez Werner
 <p align="center">
 <a href="[Your Website URL]">Website</a> •
-<a href="[LinkedIn URL]">LinkedIn</a> •
-<a href="[Twitter URL]">Twitter</a>
+<a href="//www.linkedin.com/in/agutierrezw/">LinkedIn</a>
 </p>
 ---
+  
 ## About Me
-I'm passionate about technology, specializing in cybersecurity. With 11 years of experience in the
-field, I'm dedicated to predictive analytics, perscriptive solutions, solving complex challenges, and sharing my knowledge
-with the community. XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+I'm passionate about data and tech, with 10+ years of professional experience, I'm dedicated to predictive analytics, perscriptive solutions, solving complex challenges, and sharing my knowledge
+with the community. 
+  
 ---
 ## Skills & Tools
 - Leadership
 - Management
-- Technical to non-technical
+- Technical to non-technical translations
+  
 ---
 ## Achievements
-- 1st company sold in 2024
+- Solo-ed a whole pizza last weekend 
+  
 ---
 ## Certifications
 - Certified Information Systems Security Professional (CISSP)
+  
 ---
 ## Projects
+- Under Construction 
 - [Project 1]: [Project Description and Link]
 - [Project 2]: [Project Description and Link]
 - [Project 3]: [Project Description and Link]
 ---
 ## Let's Connect
 You can find me on the web or reach out for collaboration and discussions on various platforms:
-- [Website](Your Website URL)
-- [LinkedIn](https://www.linkedin.com/in/becharakaddoum/)
-- [Twitter](Your Twitter URL)
+- [Website](Your Website URL) DBD
+- [LinkedIn](//www.linkedin.com/in/agutierrezw/)
+
 ---
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-
-stats.vercel.app/api?username=bkaddoum&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-
-langs/?username=bkaddoum&layout=compact)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro-pizza&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-pizza&layout=compact)
+
 ---
 ## Visitors
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bkaddoum.bkaddoum)
+
 ---
 ```markdown
