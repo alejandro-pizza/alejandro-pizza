@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ---
   
 ## About Me
+Current Data Science MSc student at IE University in Madrid, Spain.  
 I'm passionate about data and tech, with 10+ years of professional experience, I'm dedicated to predictive analytics, perscriptive solutions, solving complex challenges, and sharing my knowledge
 with the community. 
   
@@ -41,21 +42,20 @@ with the community.
 - Certified Information Systems Security Professional (CISSP)
   
 ---
-## Projects
-- Under Construction 
+## Projects (Under Construction)
 - [Project 1]: [Project Description and Link]
 - [Project 2]: [Project Description and Link]
 - [Project 3]: [Project Description and Link]
 ---
 ## Let's Connect
 You can find me on the web or reach out for collaboration and discussions on various platforms:
-- [Website](Your Website URL) DBD
+- [Website](Your Website URL) TBD
 - [LinkedIn](//www.linkedin.com/in/agutierrezw/)
 
 ---
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro-pizza&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro-pizza&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-pizza&layout=compact)
 
 ---
