@@ -39,7 +39,7 @@ with the community.
   
 ---
 ## Certifications
-- Certified Information Systems Security Professional (CISSP)
+- Loading...
   
 ---
 ## Projects (Under Construction)
