@@ -24,8 +24,7 @@ Here are some ideas to get you started:
   
 ## About Me
 Current Data Science MSc student at IE University in Madrid, Spain.  
-I'm passionate about data and tech, with 10+ years of professional experience, I'm dedicated to predictive analytics, perscriptive solutions, solving complex challenges, and sharing my knowledge
-with the community. 
+I'm passionate about data and tech, with 15+ years of professional experience, I'm dedicated to predictive analytics, perscriptive solutions, solving complex challenges, and sharing my knowledge with the community. 
   
 ---
 ## Skills & Tools
@@ -55,8 +54,7 @@ You can find me on the web or reach out for collaboration and discussions on var
 ---
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro-pizza&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-pizza&layout=compact)
+- TBD
 
 ---
 ## Visitors
